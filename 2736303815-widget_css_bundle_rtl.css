@@ -1,35 +1,4 @@
-section,nav,article,aside,hgroup,header,footer {
-	display:block
-}
-time,mark {
-	display:inline
-}
-.blog-list-container ul {
-	padding-left:0
-}
-.blog-list-container ul li {
-	padding-left:0;
-	list-style:none;
-	list-style-image:none;
-	clear:left
-}
-.blog-list-container a {
-	text-decoration:none
-}
-.blog-list-container a:hover {
-	text-decoration:underline
-}
-.blog-list-container .blog-content {
-	float:left;
-	margin:0 0 5px 5px;
-	text-indent:0;
-	width:85%
-}
-.blog-list-container .blog-title {
-	font-weight:bold;
-	line-height:16px;
-	margin:2px 0 0 0
-}
+ 
 .blog-list-container .blog-icon {
 	float:left;
 	margin-top:2px;
