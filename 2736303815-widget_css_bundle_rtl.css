@@ -42,7 +42,7 @@ time,mark {
 	line-height:1.3em
 }
 .blog-list-container .item-thumbnail {
-	float:left;
+	float:right;
 	margin:2px 5px 5px 0
 }
 .blog-list-container .item-time {
