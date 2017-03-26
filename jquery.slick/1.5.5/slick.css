@@ -3,7 +3,7 @@
 {
     position: relative;
 
-    display: none;
+    display: block;
 
     -moz-box-sizing: border-box;
          box-sizing: border-box;
@@ -32,7 +32,7 @@
 }
 .slick-list:focus
 {
-    outline: none;
+    outline: block;
 }
 .slick-list.dragging
 {
@@ -47,7 +47,7 @@
        -moz-transform: translate3d(0, 0, 0);
         -ms-transform: translate3d(0, 0, 0);
          -o-transform: translate3d(0, 0, 0);
-            transform: translate3d(0, 0, 0);
+            
 }
 
 .slick-track
